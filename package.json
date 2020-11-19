@@ -1,0 +1,24 @@
+{
+  "name": "codes-encarta",
+  "version": "1.0.0",
+  "description": "- All exercises should be unit tested with [Jest](https://jestjs.io/) - For each exercise we might have different solutions following different approaches",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/narthkings/codes-encarta.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/narthkings/codes-encarta/issues"
+  },
+  "homepage": "https://github.com/narthkings/codes-encarta#readme",
+  "dependencies": {
+    "@types/jest": "^26.0.15",
+    "jest": "^26.6.3"
+  }
+}
